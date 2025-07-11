@@ -1,0 +1,24 @@
+{
+  "posts": [
+    { "id": 0, "name": "Mert Özgökçeler", "mail": "mert@gmail.com" },
+    { "id": 1, "name": "Ayşe Yılmaz", "mail": "ayse@gmail.com" },
+    { "id": 2, "name": "Ahmet Demir", "mail": "ahmet@gmail.com" },
+    { "id": 3, "name": "Zeynep Kılıç", "mail": "zeynep@gmail.com" },
+    { "id": 4, "name": "Ali Veli", "mail": "ali@gmail.com" },
+    { "id": 5, "name": "Fatma Kaya", "mail": "fatma@gmail.com" },
+    { "id": 6, "name": "Emre Taş", "mail": "emre@gmail.com" },
+    { "id": 7, "name": "Seda Yüce", "mail": "seda@gmail.com" },
+    { "id": 8, "name": "Cem Gök", "mail": "cem@gmail.com" },
+    { "id": 9, "name": "Leyla Aksoy", "mail": "leyla@gmail.com" },
+    { "id": 10, "name": "Burak Yıldız", "mail": "burak@gmail.com" },
+    { "id": 11, "name": "Esra Doğan", "mail": "esra@gmail.com" },
+    { "id": 12, "name": "Hakan Şahin", "mail": "hakan@gmail.com" },
+    { "id": 13, "name": "Gizem Yalçın", "mail": "gizem@gmail.com" },
+    { "id": 14, "name": "Onur Keskin", "mail": "onur@gmail.com" },
+    { "id": 15, "name": "Selin Aydın", "mail": "selin@gmail.com" },
+    { "id": 16, "name": "Kerem Koç", "mail": "kerem@gmail.com" },
+    { "id": 17, "name": "Melis Tunç", "mail": "melis@gmail.com" },
+    { "id": 18, "name": "Tolga Arı", "mail": "tolga@gmail.com" },
+    { "id": 19, "name": "Buse Ekin", "mail": "buse@gmail.com" }
+  ]
+}
